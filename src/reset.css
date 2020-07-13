@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #C4C4C4;
+  --cta-color: #AEF974;
+  --saibamais-color: #FFC58F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}

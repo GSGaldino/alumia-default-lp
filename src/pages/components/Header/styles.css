@@ -1,0 +1,6 @@
+header.Header {
+  background: var(--primary-color);
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
